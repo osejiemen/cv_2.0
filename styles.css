@@ -1,0 +1,32 @@
+body{
+  background-color:LightGray
+}
+h1{
+  color: SlateBlue;
+  font-family: serif;
+}
+h3{
+  color: MediumSeaGreen;
+  font-family: sans-serif;
+}
+h2{
+
+    color: SlateBlue;
+      font-family: sans-serif;
+}
+hr{
+  border-color: Tomato;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 5%;
+}
+a{
+  font-family: cursive;
+}
+p1{
+  color:#b7a266
+}
+img{
+  border-radius: 25%
+}
